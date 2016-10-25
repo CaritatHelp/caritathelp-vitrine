@@ -1,0 +1,15 @@
+{
+  "name": "caritathelp-vitrine",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": {
+    "url": "git@github.com:CaritatHelp/caritathelp-vitrine.git",
+    "type": "git"
+  },
+  "author": "ChypRiotE <nicolastem@hotmail.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1"
+  }
+}
